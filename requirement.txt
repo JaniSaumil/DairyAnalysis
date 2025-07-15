@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-joblib
-scikit-learn
-plotly
-matplotlib
-
-"After this just do this in your Terminal" --->pip install -r requirements.txt
